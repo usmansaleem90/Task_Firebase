@@ -14,10 +14,6 @@
     "react-dropzone": "^4.2.13",
     "react-papaparse": "^4.4.0",
     "react-router-dom": "^6.2.2",
-    "react-scripts": "5.0.0",
-    "stream-browserify": "^3.0.0",
-    "util": "^0.12.5",
-    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
